@@ -1,0 +1,20 @@
+{
+  "name": "backend-p3-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siewla/backend-p3-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siewla/backend-p3-demo/issues"
+  },
+  "homepage": "https://github.com/siewla/backend-p3-demo#readme"
+}
